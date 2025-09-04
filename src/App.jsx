@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Welcome to Blulancer Website</h1>
+      <h1>Welcome to Bluelancer Website</h1>
     </>
   );
 }
